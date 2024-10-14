@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     {
         printf("Inserisci un numero positivo\n");
         scanf("%d", &n);
-    } while (n < 0)
+    } while (n < 0);
 
         for (int i = n; i > 0; i--)
     {
