@@ -18,7 +18,7 @@ int main() {
     printf("Inserisci il secondo valore\n");
     scanf("%d", &n2);
 
-    if (num1 > num2)
+    if (n1 > n2)
       rapporto = n1 / n2;
     else
       rapporto = n2 / n1;
