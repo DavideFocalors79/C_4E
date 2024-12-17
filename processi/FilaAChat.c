@@ -7,7 +7,7 @@
 
 #define dimensione 5
 
-int main()
+int main(int argc, char *argv[])
 {
     
     int array[dimensione];
